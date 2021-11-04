@@ -16,5 +16,5 @@ return
 BarToUrl:
 If Accu
   url = CN%Accu%
-  Run "http://infobase.arrowheaddental.com/touch/kase/%url%"
+  Run "your.site.com"
 return
